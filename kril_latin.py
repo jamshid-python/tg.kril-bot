@@ -1,7 +1,7 @@
 import telebot
 from translater import to_cyrillic, to_latin
 
-TOKEN = "5032688757:AAHYtv9Tmrh1ClSEr-4KeQPBRwBvlADJA-w"  # <-- Tokeningizni shu yerga yozing
+TOKEN = " "  # <-- Enter a your Telegram token
 bot = telebot.TeleBot(token=TOKEN)
 
 # \start komandasi uchun mas'ul funksiya
